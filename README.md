@@ -1,2 +1,2 @@
 # sql
-LinkedIn Learning > SQL Essential Training
+LinkedIn Learning --> SQL Essential Training
